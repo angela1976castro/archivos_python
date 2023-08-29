@@ -7,3 +7,6 @@ for i in range(4):
 
 
 turtle.done()
+
+if __name__=="__main__":
+    
